@@ -9,6 +9,7 @@ conway = { version = "0.1.0", path = "../conway" }
 min-queue = { version = "0.1.0", path = "../min-queue" }
 comm = { version = "0.1.0", path = "../comm" }
 lru-cache = { version = "0.1.0", path = "../lru-cache" }
+prefix = { version = "0.1.0", path = "../prefix" }
 
 [[example]]
 name = "combinations"
@@ -29,3 +30,7 @@ path = "comm.rs"
 [[example]]
 name = "lru-cache"
 path = "lru-cache.rs"
+
+[[example]]
+name = "prefix"
+path = "prefix.rs"
