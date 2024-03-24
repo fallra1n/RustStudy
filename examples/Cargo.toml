@@ -11,6 +11,7 @@ comm = { version = "0.1.0", path = "../comm" }
 lru-cache = { version = "0.1.0", path = "../lru-cache" }
 prefix = { version = "0.1.0", path = "../prefix" }
 trust = { version = "0.1.0", path = "../trust" }
+mpsc = { version = "0.1.0", path = "../mpsc" }
 
 [[example]]
 name = "combinations"
@@ -39,3 +40,7 @@ path = "prefix.rs"
 [[example]]
 name = "trust"
 path = "trust.rs"
+
+[[example]]
+name = "mpsc"
+path = "mpsc.rs"
