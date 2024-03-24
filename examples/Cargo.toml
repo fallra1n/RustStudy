@@ -12,6 +12,7 @@ lru-cache = { version = "0.1.0", path = "../lru-cache" }
 prefix = { version = "0.1.0", path = "../prefix" }
 trust = { version = "0.1.0", path = "../trust" }
 mpsc = { version = "0.1.0", path = "../mpsc" }
+flatmap = { version = "0.1.0", path = "../flatmap" }
 
 [[example]]
 name = "combinations"
@@ -44,3 +45,7 @@ path = "trust.rs"
 [[example]]
 name = "mpsc"
 path = "mpsc.rs"
+
+[[example]]
+name = "flatmap"
+path = "flatmap.rs"
