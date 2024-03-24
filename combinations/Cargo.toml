@@ -3,5 +3,5 @@ name = "combinations"
 version = "0.1.0"
 edition = "2021"
 
-[dev-dependencies]
+[dependencies]
 rand = ">= 0.8.4"
