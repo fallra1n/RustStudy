@@ -4,5 +4,6 @@ resolver = "1"
 
 members = [
     "combinations",
+    "conway",
     "examples",
 ]

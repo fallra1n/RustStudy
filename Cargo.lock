@@ -16,10 +16,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "conway"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
 name = "examples"
 version = "0.1.0"
 dependencies = [
  "combinations",
+ "conway",
 ]
 
 [[package]]

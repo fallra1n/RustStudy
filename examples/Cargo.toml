@@ -4,8 +4,13 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-combinations = { version = "0.1.0", path = "../combinations"}
+combinations = { version = "0.1.0", path = "../combinations" }
+conway = { version = "0.1.0", path = "../conway" }
 
 [[example]]
 name = "combinations"
 path = "combinations.rs"
+
+[[example]]
+name = "conway"
+path = "conway.rs"
