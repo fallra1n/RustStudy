@@ -6,6 +6,7 @@ edition = "2021"
 [dependencies]
 combinations = { version = "0.1.0", path = "../combinations" }
 conway = { version = "0.1.0", path = "../conway" }
+min-queue = { version = "0.1.0", path = "../min-queue" }
 
 [[example]]
 name = "combinations"
@@ -14,3 +15,7 @@ path = "combinations.rs"
 [[example]]
 name = "conway"
 path = "conway.rs"
+
+[[example]]
+name = "min-queue"
+path = "min-queue.rs"
