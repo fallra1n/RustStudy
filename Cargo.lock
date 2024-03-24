@@ -69,6 +69,7 @@ dependencies = [
  "lru-cache",
  "min-queue",
  "prefix",
+ "trust",
 ]
 
 [[package]]
@@ -304,6 +305,10 @@ dependencies = [
  "toml_datetime",
  "winnow",
 ]
+
+[[package]]
+name = "trust"
+version = "0.1.0"
 
 [[package]]
 name = "unicode-ident"
