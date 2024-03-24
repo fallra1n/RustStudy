@@ -1,0 +1,1 @@
+/home/tozhimukhammedova/programming/study/rust-mipt/rust-study/target/debug/examples/combinations: /home/tozhimukhammedova/programming/study/rust-mipt/rust-study/combinations/src/lib.rs /home/tozhimukhammedova/programming/study/rust-mipt/rust-study/examples/combinations.rs

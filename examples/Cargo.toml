@@ -1,0 +1,11 @@
+[package]
+name = "examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+combinations = { version = "0.1.0", path = "../combinations"}
+
+[[example]]
+name = "combinations"
+path = "combinations.rs"
