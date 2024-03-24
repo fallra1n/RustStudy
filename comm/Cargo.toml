@@ -1,8 +1,9 @@
 [package]
-name = "min-queue"
+name = "comm"
 version = "0.1.0"
 edition = "2021"
 
 [dev-dependencies]
+pretty_assertions = ">= 1.1.0"
 rand = ">= 0.8.4"
-ntest = ">= 0.7.3"
+tempfile = ">= 3.3.0"
