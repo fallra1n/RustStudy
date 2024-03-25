@@ -6,5 +6,11 @@ members = [
     "combinations",
     "conway",
     "min-queue",
+    "lru-cache",
+    "mpsc",
+    "prefix",
+    "comm",
+    "flatmap",
+    "trust",
     "examples",
 ]
