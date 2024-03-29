@@ -13,4 +13,5 @@ members = [
     "flatmap",
     "trust",
     "examples",
+    "itertools",
 ]

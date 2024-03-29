@@ -13,6 +13,7 @@ prefix = { version = "0.1.0", path = "../prefix" }
 trust = { version = "0.1.0", path = "../trust" }
 mpsc = { version = "0.1.0", path = "../mpsc" }
 flatmap = { version = "0.1.0", path = "../flatmap" }
+itertools = {version = "0.2.0", path = "../itertools"}
 
 [[example]]
 name = "combinations"
@@ -49,3 +50,7 @@ path = "mpsc.rs"
 [[example]]
 name = "flatmap"
 path = "flatmap.rs"
+
+[[example]]
+name = "itertools"
+path = "itertools.rs"
